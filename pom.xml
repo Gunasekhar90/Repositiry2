@@ -46,7 +46,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>Gunasekhar1</id>
-			<url>http://localhost:8081/nexus/content/repositories/Gunasekhar1/url>
+			<url>http://localhost:8081/nexus/content/repositories/Gunasekhar1</url>
 		</snapshotRepository>		
   </distributionManagement>
 
